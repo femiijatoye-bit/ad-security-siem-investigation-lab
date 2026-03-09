@@ -14,6 +14,16 @@ By correlating these events, the lab demonstrates how analysts identify potentia
 
 ---
 
+# Key Skills Demonstrated
+
+- Windows Event Log Analysis
+- Active Directory Account Management
+- Security Event Correlation
+- Authentication Investigation
+- SOC Incident Analysis Workflow
+
+---
+
 # Lab Environment
 
 | Component | Description |
@@ -151,15 +161,6 @@ evidence/
 10_multiple_failed_logons_event_4625_sequence.png
 ```
 
----
-
-# Key Skills Demonstrated
-
-- Windows Event Log Analysis
-- Active Directory Account Management
-- Security Event Correlation
-- Authentication Investigation
-- SOC Incident Analysis Workflow
 
 ---
 
